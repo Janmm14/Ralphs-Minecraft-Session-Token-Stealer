@@ -1,5 +1,7 @@
-<h1 align="center">Minecraft Session Token Stealer</h1>
-<p align="center">A Minecraft session token stealer written in Python 3.</p>
+<h1 align="center">Minecraft Session Token Stealer By Ralph King</h1>
+<p align="center">A Minecraft session token stealer written in Python 3 By Ralph King.</p>
+
+<h1> this project is By Ralph King so the source code is under his liscene </h1> 
 
 **What can I use the session tokens for?** You can use session tokens to hijack accounts (gain access to them without having their password) temporarily, as if they restart their game, their session token will get changed.
 
@@ -24,11 +26,4 @@ This version of the stealer only supports **Windows**.
 <br>
 
 # Author
-- **WodX**
-    - [Github](https://github.com/WodXTV)
-    - [Twitter](https://twitter.com/wodxgod)
-    - [Discord](https://profiles.pw/profile/621044372951269417)
-    - [PayPal.me](https://www.paypal.com/paypalme2/wodx)
-
-# Donate
-You can donate to my PayPal at https://www.paypal.com/paypalme2/wodx <3
+Ralph King
