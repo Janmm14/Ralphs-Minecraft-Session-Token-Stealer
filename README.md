@@ -1,5 +1,5 @@
-<h1 align="center">Minecraft Session Token Stealer By Ralph King</h1>
-<p align="center">A Minecraft session token stealer written in Python 3 By Ralph King.</p>
+<h1 align="center">Minecraft Session Token Stealer By WodX</h1>
+<p align="center">A Minecraft session token stealer written in Python 3 By WodX.</p>
 
 <h1> this project is NOT By Ralph King so the source code is NOT under his liscene </h1> 
 
